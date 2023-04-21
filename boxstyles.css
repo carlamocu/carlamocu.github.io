@@ -25,6 +25,12 @@ h1{
   font-weight: bold;
 }
 
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }
+
 .pink {
   background-color: #d49999;
   border: 3px solid black;
